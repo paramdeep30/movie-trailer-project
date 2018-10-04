@@ -1,4 +1,4 @@
-Project: Movie Trailer Website (Python Foundation Nanodegree)
+Project: Movie Trailer Website (Python Foundation Nanodegree) <br>
 Author: Paramdeep Singh Sandhu
 
 What it is and does
