@@ -1,12 +1,12 @@
 Project: Movie Trailer Website (Python Foundation Nanodegree) <br>
 Author: Paramdeep Singh Sandhu
 
-What it is and does
+What this project does: <br>
 A Python program that generate the static HTML page for a movie website that displays a number of movies trailer. A dialog box open up on click to show you trailer of that movie.
 
 You need to install Python on your system to run this script.
 
-Project contents
+Project contents: <br>
 This project consists for the following files:
 
 entertainment_center.py - main Python file which contains details of all movies
@@ -20,5 +20,5 @@ Open any command line interface on your system (e.g. the terminal window in Linu
 
 Navigate to the project directory and type in the following command:
 
-python entertainment_center.py
+python entertainment_center.py <br>
 Your default browser should launch a new tab displaying the movie trailer website.
