@@ -9,8 +9,8 @@ You need to install Python on your system to run this script.
 Project contents: <br>
 This project consists for the following files:
 
-entertainment_center.py - main Python file which contains details of all movies
-media.py - contains the class Movie that create object of class
+entertainment_center.py - main Python file which contains details of all movies<br>
+media.py - contains the class Movie that create object of class<br>
 fresh_tomatoes.py - creates the HTML file for the website (Udacity supplied)
 
 How to Run Project
